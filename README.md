@@ -113,4 +113,4 @@ This project is open-source under MIT License.
 ## 📬 Contact
 For questions or improvements:  
 **Chukwuemeka Nkwo** – ISSO | GRC & Compliance Specialist  
-LinkedIn: *your profile link here*
+LinkedIn: *https://www.linkedin.com/in/chukwuemeka-nkwo-431b27379/*
